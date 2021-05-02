@@ -18,6 +18,20 @@
 > [<img align="left" alt="Mürsel | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram] Instagram/**35_mursel**/
 > 
 
+------------
+> **Yazılım Dil**
+> <br/><br/>
+> [<img align="left" alt="Html" width="44px" src="" />][title]
+> > <br/><br/>
+> [<img align="left" alt="Html" width="44px" src="" />][title]
+> > <br/><br/>
+> [<img align="left" alt="Html" width="44px" src="" />][title]
+> > <br/><br/>
+> [<img align="left" alt="Html" width="44px" src="" />][title]
+> > <br/><br/>
+> [<img align="left" alt="Html" width="44px" src="" />][title]
+> > <br/><br/>
+> [<img align="left" alt="Html" width="44px" src="" />][title]
 
 [instagram]: https://www.instagram.com/35_mursel/ 
 [discord]: https://discord.gg/22d6m7dHuM
