@@ -8,3 +8,4 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=MRSL-9700&show_icons=true&count_private=true)
 
+[instagram]: https://www.instagram.com/35_mursel/
