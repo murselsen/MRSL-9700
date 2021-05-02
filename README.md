@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-MRSL-9700/MRSL-9700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![My stats](https://github-readme-stats.vercel.app/api?username=MRSL-9700&show_icons=true&count_private=true)
+
