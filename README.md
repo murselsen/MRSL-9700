@@ -10,11 +10,11 @@
 
 ------------
 
-- 📫 Bana Nasıl Ulaşırsın...
+
 > **BağLantilarim**
- - [<img align="left" alt="Mürsel | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+> - [<img align="left" alt="Mürsel | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
  - ###### Discord/MRSEL#9700/
- - [<img align="left" alt="Mürsel | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram] 
+> - [<img align="left" alt="Mürsel | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram] 
  - ###### Instagram/35_mursel/
 
 
