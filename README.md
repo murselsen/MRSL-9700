@@ -21,7 +21,7 @@
 ------------
 > **Yazılım Dil**
 > <br/><br/>
-> [<img align="left" alt="Html" width="44px" src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" />][Html]
+> [<img align="left" alt="Html" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" />][Html]
 > <br/><br/>
 > [<img align="left" alt="Css" width="44px" src="https://banner2.cleanpng.com/20180421/vdq/kisspng-css3-cascading-style-sheets-logo-html-markup-langu-5adbf15c141187.7175103915243636120822.jpg" />][Css] [<img align="left" alt="Bootstrap" width="44px" src="https://banner2.cleanpng.com/20180512/stw/kisspng-bootstrap-responsive-web-design-web-development-lo-5af676c04b0535.2749534815261016963073.jpg" />][Bootstrap]
 > <br/><br/>
