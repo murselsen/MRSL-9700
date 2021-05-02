@@ -16,3 +16,4 @@
 
 ### Instagram/35_mursel/
 [instagram]: https://www.instagram.com/35_mursel/
+[discord]: https://discord.gg/22d6m7dHuM
