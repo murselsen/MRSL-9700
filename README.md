@@ -25,7 +25,7 @@
 > <br/><br/><br/>
 > [<img align="left" alt="Css" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png" />][Css] [<img align="left" alt="Bootstrap" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/150px-Bootstrap_logo.svg.png" />][Bootstrap]
 > <br/><br/><br/><br/>
-> [<img align="left" alt="Javascript" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/70px-Unofficial_JavaScript_logo_2.svg.png" />][Javascript] [<img align="left" alt="Jquery" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/200px-JQuery-Logo.svg.png" />][Jquery]
+> [<img align="left" alt="Javascript" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/70px-Unofficial_JavaScript_logo_2.svg.png" />][Javascript] [<img align="left" alt="Jquery" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/200px-JQuery-Logo.svg.png" />][Jquery]
 > <br/><br/>
 
 
