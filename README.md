@@ -1,4 +1,4 @@
-### MURSEL
+### MRSL
 
 - 👋 Hi, I’m @MRSL-9700
 - 👀 I’m interested in ...
