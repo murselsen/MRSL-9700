@@ -23,7 +23,7 @@
 > <br/><br/>
 > [<img align="left" alt="Html" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" />][Html]
 > <br/><br/><br/>
-> [<img align="left" alt="Css" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png" />][Css] [<img align="left" alt="Bootstrap" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/150px-Bootstrap_logo.svg.png" />][Bootstrap]
+> [<img align="left" alt="Css" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png" />][Css] [<img align="left" alt="Bootstrap" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/150px-Bootstrap_logo.svg.png" />][Bootstrap]
 > <br/><br/><br/><br/>
 > [<img align="left" alt="Javascript" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/70px-Unofficial_JavaScript_logo_2.svg.png" />][Javascript] [<img align="left" alt="Jquery" width="44px" src="https://banner2.cleanpng.com/20180601/vio/kisspng-jquery-web-development-ajax-event-php-ajax-5b111dfd8f9687.0714511015278484455882.jpg" />][Jquery]
 > <br/><br/>
