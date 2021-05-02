@@ -21,13 +21,13 @@
 ------------
 > **Yazılım Dil**
 > <br/><br/>
-> [<img align="left" alt="Html" width="44px" src="" />][title]
+> [<img align="left" alt="Html" width="44px" src="https://banner2.cleanpng.com/20180320/rse/kisspng-html-web-design-scalable-vector-graphics-world-wid-html5-icon-hd-5ab0c85c114163.9859552115215350680707.jpg" />][Html]
 > > <br/><br/>
-> [<img align="left" alt="Html" width="44px" src="" />][title]
+> [<img align="left" alt="Css" width="44px" src="https://banner2.cleanpng.com/20180421/vdq/kisspng-css3-cascading-style-sheets-logo-html-markup-langu-5adbf15c141187.7175103915243636120822.jpg" />][Css] [<img align="left" alt="Bootstrap" width="44px" src="https://banner2.cleanpng.com/20180512/stw/kisspng-bootstrap-responsive-web-design-web-development-lo-5af676c04b0535.2749534815261016963073.jpg" />][Bootstrap]
 > > <br/><br/>
-> [<img align="left" alt="Html" width="44px" src="" />][title]
+> [<img align="left" alt="Javascript" width="44px" src="https://banner2.cleanpng.com/20180425/uce/kisspng-javascript-html-logo-blog-css3-javanese-5ae02f3c692117.3464950815246415964306.jpg" />][Javascript] [<img align="left" alt="Jquery" width="44px" src="https://banner2.cleanpng.com/20180601/vio/kisspng-jquery-web-development-ajax-event-php-ajax-5b111dfd8f9687.0714511015278484455882.jpg" />][Jquery]
 > > <br/><br/>
-> [<img align="left" alt="Html" width="44px" src="" />][title]
+> 
 > > <br/><br/>
 > [<img align="left" alt="Html" width="44px" src="" />][title]
 > > <br/><br/>
