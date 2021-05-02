@@ -28,6 +28,7 @@
 > [<img align="left" alt="Javascript" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/70px-Unofficial_JavaScript_logo_2.svg.png" />][Javascript] [<img align="left" alt="Jquery" width="44px" src="https://banner2.cleanpng.com/20180601/vio/kisspng-jquery-web-development-ajax-event-php-ajax-5b111dfd8f9687.0714511015278484455882.jpg" />][Jquery]
 > <br/><br/>
 
-[Html]
+
 [instagram]: https://www.instagram.com/35_mursel/ 
 [discord]: https://discord.gg/22d6m7dHuM
+[Html]:
