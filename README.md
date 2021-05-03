@@ -19,15 +19,16 @@
 > 
 
 ------------
-> **Yazılım Dil**
-> <br/><br/>
-> [<img align="left" alt="Html" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" />][Html]
-> <br/><br/><br/>
-> [<img align="left" alt="Css" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png" />][Css] [<img align="left" alt="Bootstrap" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/150px-Bootstrap_logo.svg.png" />][Bootstrap]
-> <br/><br/><br/><br/>
-> [<img align="left" alt="Javascript" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/70px-Unofficial_JavaScript_logo_2.svg.png" />][Javascript] [<img align="left" alt="Jquery" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/200px-JQuery-Logo.svg.png" />][Jquery] [<img align="left" alt="Jquery" width="45px" src="https://miro.medium.com/max/1200/1*O6KluMvEBZ1cBL3EPo4tig.png" />][ElectronJS]
-> <br/><br/><br/>
-> [<img align="left" alt="Php" width="44px" src="https://pngimg.com/uploads/php/php_PNG6.png" />][Php]
+> ### Languages and Tools:
+
+> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 
 
 [instagram]: https://www.instagram.com/35_mursel/ 
