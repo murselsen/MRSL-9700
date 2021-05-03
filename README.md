@@ -10,7 +10,7 @@
 
 ------------
 ### Spotify Playing 🎧
-[<img src="https://novatorem.MRSL-9700.vercel.app/api/spotify-playing" alt="MRSL#9700 Spotify Playing" width="350" />]
+[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="MRSL#9700 Spotify Playing" width="350" />]
 ------------
 
 > **BağLantilarim**:
