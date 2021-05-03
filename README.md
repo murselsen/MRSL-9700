@@ -14,11 +14,11 @@
 ------------
 
 > ### Bağlantilarim 📡
-> <br/><br/>
+> <br/>
 > <img align="left" alt="Mürsel | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" /> Discord/**MRSEL#9700**/
-> <br/><br/>
-> [<img align="left" alt="Mürsel | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram] Instagram/**35_mursel**/
-> [instagram]: https://instagram.com/35_mursel
+> <br/>
+> [<img align="left" alt="Mürsel | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram] @**35_mursel**
+
 
 
 ------------
@@ -33,3 +33,4 @@
 <img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+[instagram]: https://www.instagram.com/35_mursel/
