@@ -9,8 +9,8 @@
 ![My stats](https://github-readme-stats.vercel.app/api?username=MRSL-9700&show_icons=true&count_private=true)
 
 ------------
-### Spotify Playing 🎧
-[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="MRSL#9700 Spotify Playing" width="350" />]
+### Spotify 🎧
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=11186162261&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=11186162261&cover_image=true&theme=default)]]
 ------------
 
 > **BağLantilarim**:
