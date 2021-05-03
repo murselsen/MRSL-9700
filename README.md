@@ -17,8 +17,8 @@
 > <br/>
 > <img align="left" alt="Mürsel | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" /> Discord/**MRSEL#9700**/
 > <br/>
-> [<img align="left" alt="Mürsel | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram] @**35_mursel**
-[instagram]: https://www.instagram.com/35_mursel/
+> <img align="left" alt="Mürsel | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />
+> [@35_mursel](https://www.instagram.com/35_mursel/ "@35_mursel")
 
 
 ------------
