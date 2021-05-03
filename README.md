@@ -10,7 +10,7 @@
 
 ------------
 ### Spotify 🎧
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=11186162261&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=11186162261&cover_image=true&theme=default]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11186162261&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 ------------
 
 > **BağLantilarim**:
