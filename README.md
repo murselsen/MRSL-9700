@@ -1,3 +1,5 @@
+---
+[![](https://visitcount.itsvg.in/api?id=MRSL-9700&icon=0&color=7)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -24,7 +26,6 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=MRSL-9700&icon=0&color=7)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
