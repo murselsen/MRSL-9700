@@ -12,7 +12,7 @@ Javascript & Python Developer
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [murselsen\_35@hotmail.com](mailto:murselsen_35@hotmail.com)
 * 🧠  I'm learning Electron Js ve Figma
-* 🤝  I'm open to collaborating on Python ve Javascript
+* 🤝  I'm open to collaborating on C#
 
 ### Skills
 
