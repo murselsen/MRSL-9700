@@ -1,7 +1,7 @@
 --- 
 [![](https://komarev.com/ghpvc/?username=murselsen)](https://komarev.com)
 <br>
-Hi My name is Mürsel SEN
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mürsel SEN
 ==================================================================================================================================
 
 Javascript Developer
@@ -12,7 +12,7 @@ Javascript Developer
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [murselsen\_35@hotmail.com](mailto:murselsen_35@hotmail.com)
  
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h2>Hi! I'm Enes</h2>
+ 
 <div align="left">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" />
 </div>
