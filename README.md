@@ -51,7 +51,7 @@ Javascript Developer
 
 <a href="discord.com/users/643474762085040138" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/discord/default.svg" alt="discord logo" height="40" width="52"/></a>
 <img width="12"/>
-<a href="murselsen_35@hotmail.com" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/outlook/default.svg" alt="Outlook logo" height="40" width="52"/></a>
+<a href="mailto:murselsen_35@hotmail.com" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/gmail/default.svg" alt="Outlook logo" height="40" width="52"/></a>
 <img width="12"/>
  
 </div>
