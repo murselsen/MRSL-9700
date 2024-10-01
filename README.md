@@ -11,9 +11,7 @@ Javascript Developer
 
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [murselsen\_35@hotmail.com](mailto:murselsen_35@hotmail.com)
-* 
-![Murselsen's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=murselsen)
-
+ 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h2>Hi! I'm Enes</h2>
 <div align="left">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" />
