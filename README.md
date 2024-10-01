@@ -1,7 +1,7 @@
 --- 
 [![](https://komarev.com/ghpvc/?username=murselsen)](https://komarev.com)
 <br>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mürsel SEN
+Hi My name is Mürsel SEN
 ==================================================================================================================================
 
 Javascript Developer
@@ -14,7 +14,7 @@ Javascript Developer
 * 
 ![Murselsen's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=murselsen)
 
-<h2>Hi! I'm Enes</h2>
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h2>Hi! I'm Enes</h2>
 <div align="left">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" />
 </div>
@@ -23,9 +23,6 @@ Javascript Developer
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=js" alt="javascript logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" height="40"/>
 <img width="12"/>
 
 <img src="https://skillicons.dev/icons?i=electron" alt="electron logo" height="40"/>
@@ -46,26 +43,17 @@ Javascript Developer
 <img src="https://skillicons.dev/icons?i=css" alt="css3 logo" height="40"/>
 <img width="12"/>
 
-<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss logo" height="40"/>
-<img width="12"/>
+ 
 
-<img src="https://skillicons.dev/icons?i=vue" alt="vuejs logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discordjs logo" height="40"/>
-<img width="12"/>
+ 
 
 <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" height="40"/>
 <img width="12"/>
 
 <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" height="40"/>
 <img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=linux" alt="linux logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=neovim" alt="neovim logo" height="40"/>
-<img width="12"/>
+ 
+ 
 
 </div>
 </div>
