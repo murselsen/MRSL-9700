@@ -7,45 +7,45 @@
 <h3 align="left">Techs</h3>
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40"/>
 <img width="12"/>
-
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="40"/>
-<img width="12"/>
-
-
-
-
-<img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/express/000000" alt="express logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/github/181717" alt="github logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40"/>
 <img width="12"/>
 
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo" height="40"/>
 <img width="12"/>
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" height="40"/>
+<img width="12"/>
 
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40"/>
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm logo" height="40"/>
+<img src="https://cdn.simpleicons.org/express/000000" alt="express logo" height="40"/>
 <img width="12"/>
+
+<img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40"/>
+<img width="12"/>
+
+<!--img src="https://cdn.simpleicons.org/github/181717" alt="github logo" height="40"/-->
+<!--img width="12"/-->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40"/>
 <img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" height="40"/>
 <img width="12"/>
+
+
+
+
+
+
+
+<!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm logo" height="40"/-->
+<!--img width="12"/-->
+
 
 
 
