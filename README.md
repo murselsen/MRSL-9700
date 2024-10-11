@@ -1,7 +1,7 @@
 
 <h2>Hi! I'm Mürsel ŞEN</h2>
 <div align="left">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" /> <img class="all-time-badge tip" title="" src="/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg" data-original-title="Total time coded since Jun 7 2023">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" /> <img class="all-time-badge tip" title="" src="[/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg](https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg)" data-original-title="Total time coded since Jun 7 2023">
 </div>
 <div>
 <h3 align="left">Techs</h3>
