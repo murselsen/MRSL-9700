@@ -65,7 +65,7 @@
 <h3 align="left">Stats</h3>
 <div align="left">
 
-<figure><embed src="https://wakatime.com/share/@murselsen/623119f9-d189-479d-a139-189d54d84b9b.svg"></embed></figure>
+<img src="https://wakatime.com/share/@murselsen/623119f9-d189-479d-a139-189d54d84b9b.svg"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=murselsen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murselsen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
