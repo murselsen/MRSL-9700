@@ -2,7 +2,7 @@
 <h2>Hi! I'm Mürsel ŞEN</h2>
 <div align="left">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" /> <img class="all-time-badge tip" title="" src="[/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg](https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg)" data-original-title="Total time coded since Jun 7 2023">
- <a href="https://wakatime.com/badge/github/murselsen/Nxep"><img src="https://wakatime.com/badge/github/murselsen/Nxep.svg" alt="wakatime"></a>
+ <b>Nxep :</b> <a href="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7/project/420141e0-5a99-479a-afa8-54ae968a5a57"><img src="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7/project/420141e0-5a99-479a-afa8-54ae968a5a57.svg" alt="wakatime"></a>
 </div>
 <div>
 <h3 align="left">Techs</h3>
