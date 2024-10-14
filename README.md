@@ -93,11 +93,11 @@
       </td>
     </tr>
     <!-- Other Languages -->
-    <tr align="right">
-      <th>
+    <tr >
+      <th colspan="2" align="center">
         <b >Python</b>
       </th>
-      <td colspan="3">
+      <td colspan="2" align="center">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40" />
           <img width="12" />
       </td>
