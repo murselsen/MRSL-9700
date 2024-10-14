@@ -20,7 +20,6 @@
 <div>
 <h3 align="center">Techs</h3>
 <div align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40"/>
 <img width="12"/>
 
