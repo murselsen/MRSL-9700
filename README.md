@@ -1,4 +1,8 @@
-<h2 align="center">Mürsel ŞEN
+<br/><br/>
+
+<h2 align="center" style="border:0;">
+  Mürsel ŞEN 
+  <br/><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" />
   <img class="all-time-badge tip" title=""
     src="[/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg](https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg)"
@@ -6,10 +10,10 @@
 </h2>
 
 <div align="center">
-  <table>
+  <table  style="border: 1px solid white; padding:1.5rem;">
     <tr>
       <th>
-        <b>Nxep :</b>
+        <b>Nxep</b>
       </th>
       <td>
         <a
@@ -23,40 +27,90 @@
   </table>
 </div>
 
-<div >
+<div>
+<div  align="center">
   <h3 align="center">Techs</h3>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40" />
+  <table style="border: 1px solid white; padding:1.5rem;">
+    <tr>
+      <th>
+        <b>Html</b>
+      </th>
+      <td>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="40" />
+      </td>
+      <th>
+        <b>Css</b>
+      </th>
+      <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="40" />
   <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo" height="40" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo"
-    height="40" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/express/fff000" alt="express logo" height="40" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40" />
-  <img width="12" />
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo"
-    height="40" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo"
-    height="40" />
-  <img width="12" />
-
+      </td>
+      <th>
+        <b>JavaScript</b>
+      </th>
+      <td> 
+         <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo" height="40" />
+          <img width="12" />
+      </td>
+      <th>
+        <b>BootStrap</b>
+      </th>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" height="40" />
+        <img width="12" />
+      </td>
+    </tr>
+    <!-- Node.Js and Frameworks -->
+    <tr>
+      <th>
+        <b>Node.Js</b>
+      </th>
+      <td>
+         <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40" />
+          <img width="12" />
+      </td>
+      <th>
+        <b>Express.Js</b>
+      </th>
+      <td> 
+        <img src="https://cdn.simpleicons.org/express/fff000" alt="express logo" height="40" />
+        <img width="12" />
+      </td>
+      <th>
+        <b>Electron.Js</b>
+      </th>
+      <td>
+        <img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40" />
+        <img width="12" />
+      </td>
+      <th>
+        <b>Jquery</b>
+      </th>
+      <td>
+        <img src="https://cdn.simpleicons.org/jquery/47848F" alt="jquery logo" height="40" />
+        <img width="12" />
+      </td>
+    </tr>
+    <!-- Other Languages -->
+    <tr align="right">
+      <th>
+        <b >Python</b>
+      </th>
+      <td colspan="2">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40" />
+          <img width="12" />
+      </td>
+      <th>
+        <b>VS Code</b>
+      </th>
+       <td colspan="2">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" height="40" />
+        <img width="12" />
+      </td>
+    </tr>
+  </table>
+</div>
 </div>
 
 <div align="center">
