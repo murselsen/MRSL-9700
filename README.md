@@ -97,14 +97,14 @@
       <th>
         <b >Python</b>
       </th>
-      <td colspan="2">
+      <td colspan="3">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40" />
           <img width="12" />
       </td>
       <th>
         <b>VS Code</b>
       </th>
-       <td colspan="2">
+       <td colspan="3">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" height="40" />
         <img width="12" />
       </td>
