@@ -35,7 +35,7 @@
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40"/>
 <img width="12"/>
 
-<img src="https://cdn.simpleicons.org/express/000000" alt="express logo" height="40"/>
+<img src="https://cdn.simpleicons.org/express/ffffff" alt="express logo" height="40"/>
 <img width="12"/>
 
 <img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40"/>
