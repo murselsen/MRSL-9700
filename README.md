@@ -24,6 +24,16 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <th>
+        <b>Nxep Api </b>
+      </th>
+      <td>
+       <a href="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7/project/c307bc9d-598e-4efa-befa-edb94ceb95d3">
+        <img src="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7/project/c307bc9d-598e-4efa-befa-edb94ceb95d3.svg" alt="wakatime">
+       </a>
+      </td>
+    </tr>
   </table>
 </div>
 
