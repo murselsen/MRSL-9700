@@ -80,7 +80,7 @@
   <img width="12" />
 </div>
 <div>
-  <h3 align="left">Stats</h3>
+  <h3 align="center">Stats</h3>
   <div align="center">
 
     <img
