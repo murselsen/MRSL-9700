@@ -1,5 +1,9 @@
 
-<h2 align="center">Mürsel ŞEN <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" /> <img class="all-time-badge tip" title="" src="[/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg](https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg)" data-original-title="Total time coded since Jun 7 2023"></h2> 
+<h2 align="center">Mürsel ŞEN 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" /> 
+  <img class="all-time-badge tip" title="" src="[/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg](https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg)" data-original-title="Total time coded since Jun 7 2023">
+</h2> 
+
 <div align="center">
  <table>
   <tr>
@@ -13,57 +17,41 @@
    </td>
   </tr>
  </table>
-
-  
-
 </div>
-<div>
-<h3 align="center">Techs</h3>
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40"/>
-<img width="12"/>
+<h3>Techs</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="40"/>
-<img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40"/>
+  <img width="12"/>
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo" height="40"/>
-<img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="40"/>
+  <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" height="40"/>
-<img width="12"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo" height="40"/>
+  <img width="12"/>
 
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40"/>
-<img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" height="40"/>
+  <img width="12"/>
 
-<img src="https://cdn.simpleicons.org/express/000000" alt="express logo" height="40"/>
-<img width="12"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40"/>
+  <img width="12"/>
 
-<img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40"/>
-<img width="12"/>
+  <img src="https://cdn.simpleicons.org/express/fff000" alt="express logo" height="40"/>
+  <img width="12"/>
 
-<!--img src="https://cdn.simpleicons.org/github/181717" alt="github logo" height="40"/-->
-<!--img width="12"/-->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" height="40"/>
-<img width="12"/>
+  <img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40"/>
+  <img width="12"/>
 
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40"/>
+  <img width="12"/>
 
-
-
-
-
-<!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm logo" height="40"/-->
-<!--img width="12"/-->
-
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" height="40"/>
+  <img width="12"/>
 
 </div>
-</div>
+ 
 <div>
 <h3 align="left">Social Media</h3>
 
