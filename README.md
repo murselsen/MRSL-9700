@@ -37,7 +37,8 @@
   </table>
 </div>
 
-![](https://github-contributor-stats.vercel.app/api?username=ozncncyr&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=murselsen&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
 
 <div>
 <div  align="center">
