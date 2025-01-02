@@ -99,3 +99,35 @@
       height="300" alt="activity-graph graph" />
   </div>
 </div>
+
+
+# Merhaba, Ben Mursel Sen! 👋
+
+Ben Mursel Sen, yazılım geliştirici ve teknoloji meraklısıyım. Şu an üzerinde çalıştığım projeler ve ilgi alanlarım aşağıdaki gibidir:
+
+## Hakkımda
+
+- 🌱 Şu anda öğreniyorum: [Yeni bir teknoloji veya dil]
+- 🔭 Şu anda üzerinde çalışıyorum: [Proje adı veya konu]
+- 💬 Bana sor: [Konular veya alanlar]
+- 📫 Bana ulaşın: [E-posta adresiniz]
+
+## GitHub İstatistiklerim
+
+![Mursel Sen's GitHub stats](https://github-readme-stats.vercel.app/api?username=murselsen&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murselsen&layout=compact&theme=radical)
+
+## Projelerim
+
+### Proje 1: [Proje Adı]
+- **Açıklama:** Projenizin kısa açıklaması.
+- **Teknolojiler:** Projede kullandığınız ana teknolojiler.
+
+## Öne Çıkan Depolar
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=murselsen&repo=repo-name&theme=radical)
+
+## Bağlantılar
+
+- LinkedIn: [LinkedIn Profiliniz](https://www.linkedin.com/in/murselsen)
+- Web Site: [Web Siteniz](https://www.murselsen.com)
