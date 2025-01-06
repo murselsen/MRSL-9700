@@ -11,7 +11,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=murselsen&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
  
-<div  align="center">
+<div align="center" style="margin:auto;">
   <h3 align="center">Techs</h3>
   <table style="border: 1px solid white; padding:1.5rem;">
     <tr>
