@@ -1,137 +1,67 @@
- 
-
-<h2 align="center" style="border:0;">
-  Mürsel ŞEN 
+<h2 align="center">
+  Mürsel ŞEN
   <br/><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" />
-  <img class="all-time-badge tip" title=""
-    src="[/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg](https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg)"
-    data-original-title="Total time coded since Jun 7 2023">
+  <img src="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg" alt="Total time coded since Jun 7 2023" />
 </h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=murselsen&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
- 
-<div align="center" style="margin:auto;">
-  <h3 align="center">Techs</h3>
-  <table style="border: 1px solid white; padding:1.5rem;">
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=murselsen&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+</p>
+
+## Table of Contents
+1. [Technologies](#technologies)
+2. [Social Media](#social-media)
+3. [Stats](#stats)
+
+## Technologies
+<div align="center">
+  <table>
     <tr>
-      <th>
-        <b>Html</b>
-      </th>
-      <td>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40" />
-  <img width="12" />
-      </td>
-      <th>
-        <b>Css</b>
-      </th>
-      <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="40" />
-  <img width="12" />
-      </td>
-      <th>
-        <b>JavaScript</b>
-      </th>
-      <td> 
-         <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo" height="40" />
-          <img width="12" />
-      </td>
-      <th>
-        <b>BootStrap</b>
-      </th>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" height="40" />
-        <img width="12" />
-      </td>
+      <th>Html</th>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40" /></td>
+      <th>Css</th>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="40" /></td>
+      <th>JavaScript</th>
+      <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo" height="40" /></td>
+      <th>BootStrap</th>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" height="40" /></td>
     </tr>
-    <!-- Node.Js and Frameworks -->
     <tr>
-      <th>
-        <b>Node.Js</b>
-      </th>
-      <td>
-         <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40" />
-          <img width="12" />
-      </td>
-      <th>
-        <b>Express.Js</b>
-      </th>
-      <td> 
-        <img src="https://cdn.simpleicons.org/express/fff000" alt="express logo" height="40" />
-        <img width="12" />
-      </td>
-      <th>
-        <b>Electron.Js</b>
-      </th>
-      <td>
-        <img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40" />
-        <img width="12" />
-      </td>
-      <th>
-        <b>Jquery</b>
-      </th>
-      <td>
-        <img src="https://cdn.simpleicons.org/jquery/47848F" alt="jquery logo" height="40" />
-        <img width="12" />
-      </td>
+      <th>Node.Js</th>
+      <td><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40" /></td>
+      <th>Express.Js</th>
+      <td><img src="https://cdn.simpleicons.org/express/fff000" alt="express logo" height="40" /></td>
+      <th>Electron.Js</th>
+      <td><img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40" /></td>
+      <th>Jquery</th>
+      <td><img src="https://cdn.simpleicons.org/jquery/47848F" alt="jquery logo" height="40" /></td>
     </tr>
-    <!-- Other Languages -->
-    <tr >
-      <th colspan="2" align="center">
-        <b >Python</b>
-      </th>
-      <td colspan="2" align="center">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40" />
-          <img width="12" />
-      </td>
-      <th colspan="2" align="center">
-        <b>VS Code</b>
-      </th>
-       <td colspan="2" align="center">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" height="40" />
-        <img width="12" />
-      </td>
+    <tr>
+      <th colspan="2">Python</th>
+      <td colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40" /></td>
+      <th colspan="2">VS Code</th>
+      <td colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" height="40" /></td>
     </tr>
   </table>
 </div>
- 
-<div align="center">
-  <h3>Social Media</h3>
 
-  <a href="discord.com/users/643474762085040138" target='__blank'>
-    <img
-      src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/discord/default.svg"
-      alt="discord logo" height="40" width="52" />
+## Social Media
+<p align="center">
+  <a href="https://discord.com/users/643474762085040138" target='__blank'>
+    <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/main/public/SocialMedia/discord/default.svg" alt="discord logo" height="40" width="52" />
   </a>
-  <img width="12" />
   <a href="https://www.instagram.com/35_mursel/" target='__blank'>
-    <img
-      src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/instagram/default.svg"
-      alt="instagram logo" height="40" width="52" /></a>
-  <img width="12" />
-  <a href="murselsen803@gmail.com" target='__blank'>
-    <img
-      src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/gmail/default.svg"
-      alt="gmail logo" height="40" width="52" /></a>
-  <img width="12" />
-</div>
-<div align="center">
-  <h3 >Stats</h3>
-  <div align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=murselsen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
-      height="150" alt="stats graph" />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=murselsen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
-      height="150" alt="languages graph" />
-    <img
-      src="https://streak-stats.demolab.com?user=murselsen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
-      height="150" alt="streak graph" />
-    <img
-      src="https://github-profile-trophy.vercel.app?username=murselsen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
-      height="200" alt="trophy graph" />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=murselsen&radius=16&theme=react&area=true&order=5"
-      height="300" alt="activity-graph graph" />
-  </div>
-</div>
+    <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/main/public/SocialMedia/instagram/default.svg" alt="instagram logo" height="40" width="52" /></a>
+  <a href="mailto:murselsen803@gmail.com" target='__blank'>
+    <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/main/public/SocialMedia/gmail/default.svg" alt="gmail logo" height="40" width="52" /></a>
+</p>
+
+## Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murselsen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murselsen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=murselsen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=murselsen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murselsen&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+</p>
