@@ -49,13 +49,13 @@
 <table style="border:0; width: 100%;">
   <tr>
     <th>
-      ## Languages over All Time
+      <h3>Languages over All Time</h3>
     </th>
     <th>
-      ## Coding Activity over All Time
+      <h3>Coding Activity over All Time</h3>
     </th>
     <th>
-      ## Projects over All Time
+      <h3>Projects over All Time</h3>
     </th>
   </tr>
   <tr>
