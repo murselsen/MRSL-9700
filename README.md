@@ -9,36 +9,7 @@
     data-original-title="Total time coded since Jun 7 2023">
 </h2>
 
-<div align="center">
-  <table  style="border: 1px solid white; padding:1.5rem;">
-    <tr>
-      <th>
-        <b>Nxep</b>
-      </th>
-      <td>
-        <a
-          href="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7/project/420141e0-5a99-479a-afa8-54ae968a5a57">
-          <img
-            src="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7/project/420141e0-5a99-479a-afa8-54ae968a5a57.svg"
-            alt="Time">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <th>
-        <b>Nxep Api </b>
-      </th>
-      <td>
-       <a href="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7/project/c307bc9d-598e-4efa-befa-edb94ceb95d3">
-        <img src="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7/project/c307bc9d-598e-4efa-befa-edb94ceb95d3.svg" alt="wakatime">
-       </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ![](https://github-contributor-stats.vercel.app/api?username=murselsen&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
 
 <div>
 <div  align="center">
