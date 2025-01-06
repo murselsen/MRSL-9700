@@ -7,14 +7,22 @@
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=murselsen&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+
+  <br />
+
+## Languages over All Time
+
+  <img src="https://wakatime.com/share/@murselsen/3ba3d656-553a-41bf-a57b-3da03f750117.svg" height="400" width="100%"/>
 </p>
 
 ## Table of Contents
+
 1. [Technologies](#technologies)
 2. [Social Media](#social-media)
 3. [Stats](#stats)
 
 ## Technologies
+
 <div align="center">
   <table>
     <tr>
@@ -47,6 +55,7 @@
 </div>
 
 ## Social Media
+
 <p align="center">
   <a href="https://discord.com/users/643474762085040138" target='__blank'>
     <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/main/public/SocialMedia/discord/default.svg" alt="discord logo" height="40" width="52" />
@@ -58,10 +67,21 @@
 </p>
 
 ## Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murselsen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murselsen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=murselsen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=murselsen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=murselsen&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+ 
+ ## Categories over All Time
+
+  <img src="https://wakatime.com/share/@murselsen/c7f22644-7e1e-45f5-9c69-eac94f1f09e6.svg" height="300" width="100%" alt="activity-graph graph" />
+  <br />
+ 
 </p>
+
+## Coding Activity over All Time
+
+<img src="https://wakatime.com/share/@murselsen/4aa100ab-f0ee-4a0b-9163-ed35b5af9c93.svg" height="150"></img>
