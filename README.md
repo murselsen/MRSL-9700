@@ -17,15 +17,17 @@
   <table>
     <tr>
       <th>Html</th>
+      <th>Css</th>
+      <th>JavaScript</th>
+      <th>BootStrap</th>
+    </tr>
+    <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"
           height="40" /></td>
-      <th>Css</th>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo"
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo"
           height="40" /></td>
-      <th>JavaScript</th>
-      <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo" height="40" /></td>
-      <th>BootStrap</th>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+          <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo" height="40" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
           alt="bootstrap logo" height="40" /></td>
     </tr>
     <tr>
