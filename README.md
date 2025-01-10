@@ -9,10 +9,7 @@
   <br />
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11186162261&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11186162261&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=df18e2&bar_color_cover=false" alt="Spotify"/>
 </h3>
-
-
-
-<br>
+ 
 ## Technologies
 
 <div align="center">
