@@ -44,10 +44,12 @@
     </tr>
     <tr>
       <th colspan="2">Python</th>
-      <td colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-          alt="python logo" height="40" /></td>
       <th colspan="2">VS Code</th>
-      <td colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    </tr>
+    <tr>
+       <td colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+          alt="python logo" height="40" /></td>
+           <td colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
           alt="vscode logo" height="40" /></td>
     </tr>
   </table>
