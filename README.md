@@ -3,6 +3,7 @@
     Mürsel ŞEN
   </strong>
   <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=murselsen&label=Profile%20views&color=0e75b6&style=flat" alt="murselsen" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" />
   <img src="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg"
     alt="Total time coded since Jun 7 2023" />
