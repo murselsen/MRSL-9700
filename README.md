@@ -32,13 +32,15 @@
     </tr>
     <tr>
       <th>Node.Js</th>
-      <td><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40" /></td>
       <th>Express.Js</th>
-      <td><img src="https://cdn.simpleicons.org/express/fff000" alt="express logo" height="40" /></td>
       <th>Electron.Js</th>
-      <td><img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40" /></td>
       <th>Jquery</th>
-      <td><img src="https://cdn.simpleicons.org/jquery/47848F" alt="jquery logo" height="40" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40" /></td>
+         <td><img src="https://cdn.simpleicons.org/express/fff000" alt="express logo" height="40" /></td>
+          <td><img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40" /></td>
+         <td><img src="https://cdn.simpleicons.org/jquery/47848F" alt="jquery logo" height="40" /></td>
     </tr>
     <tr>
       <th colspan="2">Python</th>
