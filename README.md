@@ -7,7 +7,8 @@
   <img src="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg"
     alt="Total time coded since Jun 7 2023" />
 </h3>
-
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11186162261&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11186162261&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=df18e2&bar_color_cover=false)]]
+<br>
 ## Technologies
 
 <div align="center">
