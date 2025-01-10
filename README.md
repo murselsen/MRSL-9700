@@ -14,7 +14,7 @@
 ## Technologies
 
 <div style="width:100%;" align="center">
-  <table  style="width:100%;">
+  <table  style="border:0; width: 100%;">
     <tr>
       <th>Html</th>
       <th>Css</th>
